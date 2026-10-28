@@ -1,0 +1,19 @@
+TEXTO FICTICIO PARA PRÁCTICAS · SESIÓN 1 · ACTIVIDAD A2
+(Empresa y condiciones inventadas. No es un contrato real ni asesoramiento jurídico.)
+
+CONTRATO DE PRESTACIÓN DE SERVICIOS DE MANTENIMIENTO INFORMÁTICO
+Servicios Telemática Norte, S.L. (en adelante, "el Prestador") y la persona o entidad cliente (en adelante, "el Cliente")
+
+CLÁUSULA SÉPTIMA. DESISTIMIENTO Y CANCELACIÓN DE SERVICIOS PROGRAMADOS
+
+7.1. El Cliente podrá cancelar o reprogramar cualquier intervención programada sin coste alguno siempre que lo comunique al Prestador por escrito, con una antelación mínima de setenta y dos (72) horas naturales respecto al inicio previsto de la intervención.
+
+7.2. Cuando la comunicación se efectúe con una antelación inferior a setenta y dos (72) horas pero superior a veinticuatro (24) horas, el Prestador tendrá derecho a facturar un quince por ciento (15 %) del importe de la intervención cancelada, en concepto de gastos de organización y reserva de recursos.
+
+7.3. Cuando la comunicación se efectúe con una antelación inferior o igual a veinticuatro (24) horas, o cuando el Prestador no pueda acceder a las instalaciones en la hora fijada por causas imputables al Cliente, el Prestador podrá facturar el cincuenta por ciento (50 %) del importe de la intervención.
+
+7.4. Las anteriores penalizaciones no serán de aplicación cuando la cancelación derive de causas de fuerza mayor debidamente acreditadas por el Cliente en el plazo de cinco (5) días hábiles desde su ocurrencia.
+
+7.5. El Cliente podrá resolver el presente contrato en cualquier momento mediante preaviso escrito de treinta (30) días naturales, sin perjuicio del pago de los servicios efectivamente prestados hasta la fecha de resolución. Transcurrido el periodo de preaviso, no se devolverá cuota alguna correspondiente a periodos ya facturados por anticipado.
+
+7.6. Las comunicaciones previstas en esta cláusula se realizarán a la dirección de correo electrónico designada en el anexo I. Se considerará recibida la comunicación al día hábil siguiente a su envío.

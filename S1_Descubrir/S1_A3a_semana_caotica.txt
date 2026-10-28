@@ -1,0 +1,20 @@
+MATERIAL FICTICIO · SESIÓN 1 · ACTIVIDAD A3 · VÍA A (Organizar una tarea)
+
+Situación: la semana va de lunes a viernes. Marta coordina una pequeña academia de idiomas con tres personas más en el equipo. Esta es su lista de tareas de la semana, sin orden. Dispone de 5 horas al día para trabajo de oficina (el resto lo ocupa la atención presencial).
+
+Tareas pendientes:
+- Responder 14 correos de familias sobre horarios del segundo trimestre (urgente: antes del miércoles).
+- Preparar la reunión de equipo del jueves a las 12:00 (agenda y materiales).
+- Revisar y corregir el folleto de la matrícula de enero (lo espera la imprenta el viernes).
+- Hacer el cuadro de horarios de las aulas para diciembre.
+- Llamar a dos proveedores de material para pedir presupuesto.
+- Actualizar la lista de espera de los grupos de inglés.
+- Escribir tres publicaciones para las redes sociales.
+- Preparar un informe sencillo con el número de matrículas por mes.
+- Archivar las hojas de inscripción de septiembre.
+- Pedir a una profesora que sustituya a otra el martes por la tarde.
+
+Restricciones:
+- El martes por la tarde no puede trabajar en la oficina.
+- La reunión del jueves dura una hora.
+- Quiere dejar el viernes por la tarde libre.
