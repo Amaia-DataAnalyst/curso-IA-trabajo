@@ -1,0 +1,68 @@
+MATERIAL FICTICIO · SESIÓN 3 · CASO C9 · GASTOS DOMÉSTICOS Y SUMINISTROS
+(Vivienda, consumos e importes inventados.)
+
+Situación: una persona quiere entender cuánto gasta en electricidad, gas y agua en su vivienda durante los últimos doce meses (de octubre de 2025 a septiembre de 2026). Ha copiado los datos de los recibos, que llegan por separado. Los importes incluyen impuestos.
+
+Unidades: electricidad en kWh, gas en kWh y agua en m³. Importes en euros.
+
+Notas que figuran en los recibos:
+- Enero de 2026: la compañía eléctrica cambia la tarifa (el precio por kWh es distinto desde ese mes).
+- Agosto de 2026: la lectura del contador de agua es real, no estimada.
+- No hay más información sobre la vivienda ni sobre las personas que viven en ella.
+
+RECIBOS DE ELECTRICIDAD (kWh · €)
+- octubre 2025: 262 kWh · 62,91 €
+- noviembre 2025: 281 kWh · 66,18 €
+- diciembre 2025: 318 kWh · 72,55 €
+- enero 2026: 405 kWh · 96,42 €
+- febrero 2026: 391 kWh · 93,70 €
+- marzo 2026: 332 kWh · 82,26 €
+- abril 2026: 288 kWh · 73,72 €
+- mayo 2026: 254 kWh · 67,13 €
+- junio 2026: 247 kWh · 65,77 €
+- julio 2026: 276 kWh · 71,39 €
+- agosto 2026: 301 kWh · 76,24 €
+- septiembre 2026: 269 kWh · 70,04 €
+
+RECIBOS DE GAS (kWh · €)
+- octubre 2025: 95 kWh · 17,39 €
+- noviembre 2025: 340 kWh · 37,48 €
+- diciembre 2025: 720 kWh · 68,64 €
+- enero 2026: 980 kWh · 89,96 €
+- febrero 2026: 905 kWh · 83,81 €
+- marzo 2026: 610 kWh · 59,62 €
+- abril 2026: 320 kWh · 35,84 €
+- mayo 2026: 140 kWh · 21,08 €
+- junio 2026: 85 kWh · 16,57 €
+- julio 2026: 70 kWh · 15,34 €
+- agosto 2026: 72 kWh · 15,50 €
+- septiembre 2026: 88 kWh · 16,82 €
+
+RECIBOS DE AGUA (m³ · €)
+- octubre 2025: 9 m³ · 29,25 €
+- noviembre 2025: 10 m³ · 31,70 €
+- diciembre 2025: 9 m³ · 29,25 €
+- enero 2026: 10 m³ · 31,70 €
+- febrero 2026: 9 m³ · 29,25 €
+- marzo 2026: 10 m³ · 31,70 €
+- abril 2026: 9 m³ · 29,25 €
+- mayo 2026: 10 m³ · 31,70 €
+- junio 2026: 11 m³ · 34,15 €
+- julio 2026: 12 m³ · 36,60 €
+- agosto 2026: 21 m³ · 58,65 €
+- septiembre 2026: 11 m³ · 34,15 €
+
+QUÉ HAY QUE HACER
+Básico (sirve para cualquier perfil)
+1. Organizar los datos por mes y suministro.
+2. Generar una tabla para Excel.
+3. Obtener totales y promedios.
+Ampliación (si terminas antes)
+4. Comparar períodos (por ejemplo, invierno frente a verano).
+5. Detectar variaciones importantes entre meses.
+6. Preparar los datos para un gráfico en Excel.
+7. Proponer hipótesis razonables que podrían explicar los cambios, diferenciándolas de lo que los datos permiten afirmar.
+
+CÓMO COMPROBAR LOS CÁLCULOS
+- Pega la tabla en una hoja de cálculo y calcula tú: =SUMA(rango), =PROMEDIO(rango), y la variación =(mes_actual-mes_anterior)/mes_anterior.
+- Una hipótesis no es un hecho: «subió porque…» necesita información que estos recibos no contienen.

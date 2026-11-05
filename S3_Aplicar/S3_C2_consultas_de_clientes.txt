@@ -1,0 +1,19 @@
+MATERIAL FICTICIO · SESIÓN 3 · CASO C2 · RESPUESTAS A CLIENTES
+(Empresa, personas y condiciones inventadas.)
+
+Empresa: «Tienda Aldabe», tienda en línea y física de pequeños electrodomésticos.
+
+INFORMACIÓN DE LA EMPRESA (única que puede usarse para responder)
+- Devoluciones: 14 días naturales desde la recepción, con el producto sin usar y en su embalaje. El coste del envío de devolución lo asume la persona cliente, salvo defecto de fábrica.
+- Garantía: 3 años por defecto de fabricación. Se necesita la factura.
+- Envíos: 2 a 4 días laborables en la Península. Envío gratuito a partir de 60 €.
+- Horario de tienda: lunes a sábado de 10:00 a 19:00.
+- Atención: por correo; se responde en un máximo de 2 días laborables.
+- No se ofrece servicio técnico a domicilio.
+
+CONSULTAS RECIBIDAS
+1. «Hola, compré una cafetera hace 10 días y no me convence el color. ¿Puedo devolverla? ¿Quién paga el envío?» — Lucía
+2. «Mi batidora dejó de funcionar al año y medio de comprarla. ¿Tiene garantía? No encuentro la factura.» — Mikel
+3. «Pedí un tostador hace 6 días laborables y no llega. ¿Dónde está?» — Carmen
+4. «¿Tenéis servicio técnico que vaya a mi casa a arreglarme la tostadora?» — Josu
+5. «¿Podéis enviar un pedido de 45 € a Canarias? ¿Es gratis?» — Elena

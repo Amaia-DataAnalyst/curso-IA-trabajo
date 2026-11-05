@@ -1,0 +1,48 @@
+MATERIAL FICTICIO · SESIÓN 3 · CASO C8 · FACTURAS Y GASTOS DE UNA PROFESIONAL AUTÓNOMA
+(Persona, empresas, documentos y cifras inventados. No son datos reales ni asesoramiento fiscal o contable.)
+
+Situación: Marina Olano es escritora y autora autónoma (ficticia). Durante el tercer trimestre de 2026 ha ido guardando facturas, tickets y recibos en una carpeta y en notas sueltas. Quiere ordenarlos para llevarlos a una hoja de cálculo y preparar información para su asesoría.
+
+Cómo leer los registros:
+- «base» es el importe antes de IVA; «IVA» es la cuota de IVA con su tipo; «total» es la base más el IVA.
+- «importe» aparece cuando el documento no separa base e IVA; «el documento no indica IVA» significa que no consta.
+- «categoría: sin asignar» significa que Marina aún no ha decidido la categoría.
+
+Categorías que Marina utiliza: Material de oficina; Software y suscripciones; Servicios profesionales; Viajes y transporte; Comidas y reuniones; Promoción y eventos; Formación y libros; Telecomunicaciones; Espacio de trabajo; Cuotas y seguros.
+
+REGISTROS (19)
+1) 03/07/2026 · Papelería Zubi S.L. · cuadernos, bolígrafos y carpetas · base 38,40 € · IVA 21 % (8,06 €) · total 46,46 € · factura 2026/1187 (PDF) · categoría: Material de oficina
+2) 05/07/2026 · Dominios y Hosting Norte · renovación anual de dominio y alojamiento web · base 96,00 € · IVA 21 % (20,16 €) · total 116,16 € · factura F-88213 (PDF) · categoría: Software y suscripciones
+3) 09/07/2026 · Librería Gaztelu · 3 libros de consulta · base 48,00 € · IVA 4 % (1,92 €) · total 49,92 € · factura simplificada T-5531 · categoría: Formación y libros
+4) 14/07/2026 · Estudio Pliego S.L. · maquetación interior de la novela · base 420,00 € · IVA 21 % (88,20 €) · total 508,20 € · factura Pliego-2026-031 · pagada · categoría: Servicios profesionales
+5) 18/07/2026 · Trenes del Norte · billete Vitoria–Madrid, ida y vuelta (feria del libro) · base 49,64 € · IVA 10 % (4,96 €) · total 54,60 € · billete electrónico · categoría: sin asignar
+6) 19/07/2026 · Hotel Ribera · 2 noches de alojamiento durante la feria · base 160,00 € · IVA 10 % (16,00 €) · total 176,00 € · factura H-2217 · categoría: Viajes y transporte
+7) 20/07/2026 · Restaurante Casa Lorea · comida de trabajo con la editora · base 31,82 € · IVA 10 % (3,18 €) · total 35,00 € · ticket sin datos fiscales de la clienta · categoría: Comidas y reuniones
+8) 31/07/2026 · — · cuota de autónomos de julio · importe 294,00 € · justificante bancario, sin factura · el documento no indica IVA · categoría: Cuotas y seguros
+9) 02/08/2026 · Telefonía Orbe · móvil y fibra de julio (uso personal y profesional mezclado) · base 41,32 € · IVA 21 % (8,68 €) · total 50,00 € · factura O-2026-07-4410 · categoría: Telecomunicaciones
+10) 06/08/2026 · Imprenta Aranzadi · 150 marcapáginas y 100 carteles · base 187,50 € · IVA 21 % (39,38 €) · total 226,88 € · factura IA-1203 (PDF) · categoría: Promoción y eventos
+11) 07/08/2026 · Imprenta Aranzadi · 150 marcapáginas y 100 carteles · base 187,50 € · IVA 21 % (39,38 €) · total 226,88 € · factura IA-1203 (copia reenviada por correo) · categoría: Promoción y eventos
+12) 11/08/2026 · Plumilla Software · suscripción mensual de un programa de escritura · base 8,26 € · IVA 21 % (1,73 €) · total 9,99 € · recibo de tarjeta, sin factura · categoría: Software y suscripciones
+13) 20/08/2026 · Papelería Zubi S.L. · tóner de impresora · base 64,90 € · IVA 21 % (13,63 €) · total 78,53 € · sin número de factura · categoría: Material de oficina
+14) 25/08/2026 · — · «compra feria» (recibo manuscrito) · importe 85,00 € · recibo manuscrito, sin NIF ni IVA desglosado · categoría: sin asignar
+15) 02/09/2026 · Coworking La Fábrica · cuota de septiembre · base 120,00 € · IVA 21 % (25,20 €) · total 145,20 € · factura LF-0932 · categoría: Espacio de trabajo
+16) 08/09/2026 · Seguros Mendi · seguro de responsabilidad civil, anual · importe 186,00 € · póliza RC-77120 · el documento no indica IVA · categoría: Cuotas y seguros
+17) 12/09/2026 · Estudio Pliego S.L. · diseño de portada · base 300,00 € · IVA 21 % (63,00 €) · total 363,00 € · factura Pliego-2026-044 · pendiente de pago · categoría: Servicios profesionales
+18) 15/09/2026 · Asociación Autores del Norte · cuota anual de socia · importe 60,00 € · recibo · el documento no indica IVA · categoría: sin asignar
+19) septiembre de 2026 (sin día) · Restaurante Casa Lorea · cena tras la presentación del libro · base 90,91 € · IVA 10 % (9,09 €) · total 100,00 € · ticket · categoría: Promoción y eventos
+
+QUÉ HAY QUE HACER
+Básico (sirve para cualquier perfil)
+1. Organizar los registros en una tabla.
+2. Clasificarlos por categorías (propón una categoría para los registros «sin asignar» y márcala como propuesta).
+3. Preparar la información en un formato que se pueda copiar a Excel.
+Ampliación (si terminas antes)
+4. Resumir los importes por categoría.
+5. Identificar documentos o datos que faltan.
+6. Redactar un correo con preguntas concretas para la asesoría.
+
+CÓMO COMPROBAR LOS CÁLCULOS (sin pedirle a la IA que se corrija a sí misma)
+- Copia la tabla a una hoja de cálculo y suma tú con fórmulas: =SUMA(rango), =SUMAR.SI(rango_categoría; "Material de oficina"; rango_importes).
+- Comprueba en cada fila que base + IVA = total.
+- Cuenta las filas: ¿hay tantas como registros?
+- No decidas aquí qué gastos son deducibles: eso lo confirma la asesoría.

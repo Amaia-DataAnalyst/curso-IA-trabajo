@@ -1,0 +1,17 @@
+# Sesión 3 · Casos de reserva (por si faltan casos propios)
+Material ficticio. Cada caso se puede hacer en 15–25 minutos con un prompt de la plantilla S3-C7 («Mi caso»).
+
+## R1 · Boletín interno
+Una pequeña empresa de 14 personas quiere un boletín interno de una página. Contenido de este mes: se incorpora Nerea al equipo comercial (1 de diciembre); el horario de verano ya terminó; se estrena una sala de reuniones; recordatorio de enviar partes de horas antes del día 25; sorteo de una cesta en la comida de Navidad (18 de diciembre, 14:00). **Pide:** borrador con tono cercano y apartados.
+
+## R2 · Plan de formación
+Una persona coordina el aprendizaje de un equipo de 5 personas de administración que necesita mejorar en hoja de cálculo (nivel básico), atención telefónica y redacción de correos. Tiempo disponible: 2 horas por semana durante 6 semanas. **Pide:** un plan semanal con objetivos, actividades y cómo comprobar el progreso.
+
+## R3 · Comparar tres presupuestos
+Una asociación debe elegir proveedor de catering para 40 personas. A: 15 €/persona, sin opción vegetariana, entrega a las 13:00. B: 18 €/persona, incluye opción vegetariana, montaje y recogida. C: 16,50 €/persona, vegetariano con 5 € extra por persona, sin recogida. Presupuesto máximo: 700 €. **Pide:** tabla comparativa y una recomendación razonada con los criterios que elijas.
+
+## R4 · Guión de entrevista
+Una persona entrevista a la dueña de una librería para el boletín de un barrio. Quiere 8 preguntas sobre el negocio, su historia y su futuro, más un cierre. **Pide:** guion con preguntas abiertas y un orden lógico.
+
+## R5 · Informe breve de resultados
+Un taller con 12 participantes dio estas valoraciones (de 1 a 5): contenido 4,3; ritmo 3,8; materiales 4,5; organización 4,0. Comentarios: «Faltó tiempo para practicar», «Muy útil», «La sala era pequeña», «Querría más ejemplos». **Pide:** informe de media página con resultados, puntos fuertes y mejoras, **sin inventar** datos que no aparecen.

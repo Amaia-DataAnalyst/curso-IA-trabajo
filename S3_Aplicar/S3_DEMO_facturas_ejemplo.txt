@@ -1,0 +1,14 @@
+MATERIAL FICTICIO · SESIÓN 3 · DEMOSTRACIÓN · FACTURAS DE UNA PROFESIONAL AUTÓNOMA
+(Datos inventados. Es la muestra de la demostración de la sesión; el caso C8 tiene otros datos.)
+
+Situación: una profesional autónoma (ficticia) guarda facturas y tickets de octubre de 2026 y quiere prepararlos para su asesoría.
+
+Categorías: Material de oficina; Software y suscripciones; Servicios profesionales; Viajes y transporte; Comidas y reuniones; Promoción y eventos; Formación y libros; Telecomunicaciones; Espacio de trabajo; Cuotas y seguros.
+
+REGISTROS (6)
+1) 04/10/2026 · Copistería Ederra · impresión de 40 folletos · base 52,00 € · IVA 21 % (10,92 €) · total 62,92 € · factura 311/26 · categoría: Promoción y eventos
+2) 07/10/2026 · Taxis Gasteiz · trayecto a la presentación en Bilbao · base 27,27 € · IVA 10 % (2,73 €) · total 30,00 € · ticket · categoría: sin asignar
+3) 12/10/2026 · Tinta y Papel S.L. · paquete de papel y etiquetas · base 33,50 € · IVA 21 % (7,04 €) · total 40,54 € · sin número de factura · categoría: Material de oficina
+4) 15/10/2026 · Plataforma Agenda+ · suscripción mensual de agenda en línea · base 12,40 € · IVA 21 % (2,60 €) · total 15,00 € · recibo de tarjeta, sin factura · categoría: Software y suscripciones
+5) 22/10/2026 · Librería Gaztelu · 2 libros de consulta · base 31,25 € · IVA 4 % (1,25 €) · total 32,50 € · factura simplificada T-6120 · categoría: Formación y libros
+6) octubre de 2026 (sin día) · Cafetería Alameda · café con una colaboradora · base 8,18 € · IVA 10 % (0,82 €) · total 9,00 € · ticket · categoría: Comidas y reuniones

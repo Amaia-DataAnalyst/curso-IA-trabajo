@@ -1,0 +1,6 @@
+MATERIAL FICTICIO · SESIÓN 3 · CASO C4 · PROCEDIMIENTO ADMINISTRATIVO
+(Empresa y personas inventadas. Texto escrito «como se cuenta», sin orden.)
+
+Cómo damos de alta a un proveedor nuevo en la asesoría «Gestiones Arriaga» (explicado por Amaia, administración):
+
+Primero hay que pedirle al proveedor sus datos: razón social, NIF, dirección, correo y cuenta bancaria. Antes de nada, le mandamos el formulario de alta (el formato lo tiene Josu en la carpeta compartida). Si el proveedor es autónomo hace falta además el certificado de estar al corriente de pagos con Hacienda; si es sociedad, no siempre, depende del importe. Cuando se tienen los datos, los revisa Josu y los mete en el programa de facturas. Ojo: la cuenta bancaria la comprueba siempre una segunda persona, que suele ser Leire, por si hay errores. Después se manda un correo de bienvenida al proveedor con las condiciones de pago (30 días, salvo acuerdo distinto). Lo normal es que todo esto se haga en menos de una semana. Si el proveedor factura más de 5.000 € al año, la dirección tiene que autorizar el alta. Hay que guardar copia de todo en la carpeta del proveedor, con la fecha. Si falta algún documento, se le reclama a los tres días. Al final Amaia archiva y avisa a contabilidad.
