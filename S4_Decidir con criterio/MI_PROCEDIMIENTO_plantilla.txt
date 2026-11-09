@@ -1,0 +1,52 @@
+MI PROCEDIMIENTO · plantilla
+Curso «Inteligencia Artificial aplicada al trabajo» · Sesión 4 · A13 y A14
+
+Nombre de la tarea: 
+Versión y fecha: v1 · 
+
+Documenta algo que has ejecutado de verdad. Si un apartado no lo sabes, escribe «FALTA» y complétalo al probarlo en A14. No incluyas datos reales.
+
+1. Objetivo de la tarea
+
+
+2. Materiales necesarios
+
+
+3. Preparación y protección de datos
+¿Qué información necesita la tarea? ¿Qué se elimina? ¿Qué se sustituye por códigos? ¿Dónde se guarda la tabla de equivalencias? ¿Qué se comprueba antes de decidir si se comparte (también en archivos Word, PDF y Excel)?
+
+
+
+4. Prompt o instrucciones utilizadas
+Pega aquí el prompt tal como lo usaste:
+
+[PEGA AQUÍ TU PROMPT]
+
+5. Pasos concretos
+1. 
+2. 
+3. 
+
+6. Resultado esperado
+
+
+7. Comprobaciones
+- [ ] 
+- [ ] 
+- [ ] 
+
+8. Problemas frecuentes y soluciones
+Problema: 
+Solución: 
+
+Problema: 
+Solución: 
+
+9. Posibles mejoras
+
+
+Registro de pruebas (A14)
+Fecha: 
+Datos nuevos (variante): 
+Qué falló o faltaba: 
+Cambio hecho: 
