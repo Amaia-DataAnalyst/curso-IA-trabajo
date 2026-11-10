@@ -1,0 +1,87 @@
+INSTRUCCIONES MENSUALES PARA ORGANIZAR MIS GASTOS Y FACTURAS
+
+OBJETIVO Ayúdame a organizar los justificantes y gastos de mi actividad
+como profesional autónoma para preparar la información que enviaré a mi
+asesoría. Trabaja únicamente con los datos que te proporcione.
+
+CÓMO DEBO USAR ESTAS INSTRUCCIONES Cada mes pegaré estas instrucciones
+y, a continuación, facilitaré los registros de facturas, tickets y otros
+justificantes del mes correspondiente. Indicaré el mes y el año. Si no
+lo indico, pregúntamelo antes de preparar los archivos.
+
+TAREA 1. ORGANIZAR LOS REGISTROS - Convierte cada justificante o gasto
+facilitado en una fila independiente. - Utiliza estas columnas y este
+orden: fecha | proveedor | concepto | base | IVA | total | categoría -
+Conserva exactamente los importes indicados. No recalcules ni corrijas
+importes silenciosamente. - No inventes datos, números de factura,
+fechas, conceptos ni información del proveedor. - Si falta un dato o no
+puede determinarse con lo facilitado, escribe «REVISAR» en la celda
+correspondiente. - Si solo se conoce el mes, pero no el día, consigna el
+mes y año e indica que falta el día; no inventes una fecha. - Incluye en
+el concepto los datos documentales relevantes que yo haya facilitado,
+por ejemplo: número de factura, factura simplificada, ticket, recibo de
+tarjeta o ausencia de factura/número. - Mantén separadas la base
+imponible, la cuota de IVA y el total. - No emitas opiniones ni
+conclusiones sobre la deducibilidad fiscal de ningún gasto ni sobre la
+deducibilidad del IVA.
+
+CATEGORÍAS PERMITIDAS Asigna una de estas categorías: - Material de
+oficina - Software y suscripciones - Servicios profesionales - Viajes y
+transporte - Comidas y reuniones - Promoción y eventos - Formación y
+libros - Telecomunicaciones - Espacio de trabajo - Cuotas y seguros
+
+Si la categoría no está clara, elige la que parezca más adecuada y añade
+«(propuesta)» al nombre de la categoría. No crees categorías nuevas. Si
+no hay información suficiente para proponer una categoría con criterio,
+escribe «REVISAR».
+
+TAREA 2. RESUMEN DE IMPORTES Prepara un resumen con: - Número de
+registros. - Suma de las bases imponibles. - Suma de las cuotas de
+IVA. - Suma de los totales.
+
+Comprueba que las sumas corresponden a los registros proporcionados. Si
+hay importes ausentes, ilegibles o contradictorios, no los supongas:
+indícalo claramente y señala que el resumen queda pendiente de revisión.
+No confundas el total de gastos con una valoración fiscal.
+
+TAREA 3. ARCHIVO EXCEL Crea un archivo Excel (.xlsx) con: - Una hoja
+llamada «Registro de gastos», con el título del mes y año, la tabla
+completa y las siete columnas indicadas. - Una hoja llamada «Resumen»,
+con los cuatro indicadores del resumen de importes. - Formato legible,
+importes en euros con dos decimales, encabezados claros y filtros en la
+tabla de registros. - Conserva «REVISAR» y «(propuesta)» donde
+corresponda. - Facilita un enlace al archivo creado.
+
+TAREA 4. INCIDENCIAS Y CORREO A LA ASESORÍA Después de revisar los
+registros, prepara una lista breve de incidencias que requieran
+aclaración, por ejemplo: - Falta de fecha completa. - Falta de número de
+factura. - Justificante que sea únicamente ticket o recibo de tarjeta. -
+Falta de factura. - Datos incompletos o inconsistentes. - Categoría
+propuesta.
+
+Redacta un correo breve y profesional a mi asesoría con una pregunta
+concreta por cada incidencia. No des nada por hecho en materia fiscal:
+formula preguntas y deja que la asesoría indique el tratamiento
+correcto. No añadas incidencias que no se desprendan de los datos
+proporcionados. El correo tendrá un máximo de 150 palabras, salvo que yo
+indique otro límite.
+
+FORMATO DE LA RESPUESTA 1. Muestra la tabla de registros en el chat con
+estas columnas: fecha, proveedor, concepto, base, IVA, total y
+categoría. 2. Muestra el resumen de importes. 3. Enumera las incidencias
+que deban revisarse. 4. Adjunta el archivo Excel. 5. Incluye el borrador
+del correo a la asesoría en un formato fácil de copiar y editar.
+
+REGLAS GENERALES - No inventes ni completes por intuición ningún dato
+ausente. - Usa «REVISAR» en las celdas incompletas. - No alteres los
+datos originales sin advertirlo. - Si detectas una posible incoherencia
+aritmética entre base + IVA y total, señálala para revisión; no cambies
+las cifras. - Si necesitas una aclaración imprescindible para continuar,
+haz una sola pregunta concreta antes de generar los archivos. - Si
+puedes avanzar sin aclaración, prepara el resultado e identifica
+claramente lo pendiente. - No determines qué gastos son fiscalmente
+deducibles ni des asesoramiento fiscal concluyente. - Usa siempre euros
+(€), salvo que yo indique otra moneda.
+
+DATOS DEL MES Mes y año: [INDICAR] Registros: [PEGAR AQUÍ LOS DATOS DE
+FACTURAS, TICKETS Y JUSTIFICANTES]
